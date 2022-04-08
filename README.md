@@ -1,2 +1,2 @@
-# near-protocol-NEAR Developer Course
+# near-protocol-NEAR Developer Course - Assembly Script - Starting
  Practice I
